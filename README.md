@@ -6,7 +6,7 @@ A standard set of tools for building and publishing Sphinx documentation.
 
 The Sphinx Stack contains a set of CLI commands and a default set of extensions,
 configuration options, and tests.
-
+ 
 ## Basic usage
 
 To try out the Sphinx Stack, clone it locally and navigate to the `/docs` directory:
